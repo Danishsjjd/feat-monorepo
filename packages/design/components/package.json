@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@rightbrain/design-foundation": "workspace:^"
+    "@rightbrain/design-foundation": "workspace:^",
+    "@rightbrain/tsconfig": "workspace:^",
+    "ts-node": "^10.9.2"
   }
 }
