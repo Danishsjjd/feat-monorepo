@@ -1,14 +1,10 @@
 {
   "name": "@rightbrain/design-foundation",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
     "build": "ts-node index.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@rightbrain/tsconfig": "workspace:^",
     "sd-tailwindcss-transformer": "^1.4.1",
