@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "dev": "dotenv -- turbo run dev"
+    "dev": "dotenv -- turbo run dev",
+    "build": "turbo run build"
   },
   "dependencies": {
     "dotenv-cli": "^7.4.1",
