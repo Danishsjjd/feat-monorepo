@@ -1,0 +1,24 @@
+{
+  "name": "transactional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "email dev --port=3001",
+    "export": "email export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-email/components": "^0.0.15",
+    "@rightbrain/tsconfig": "workspace:^",
+    "browserslist": "^4.23.0",
+    "react": "^18.2.0",
+    "react-email": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.1",
+    "@types/react": "^18.2.0"
+  }
+}
