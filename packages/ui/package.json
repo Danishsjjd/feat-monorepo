@@ -1,14 +1,12 @@
 {
-  "name": "@rightbrain/design-foundation",
+  "name": "@rightbrain/ui",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "build": "ts-node index.ts"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "@rightbrain/tsconfig": "workspace:^",
-    "sd-tailwindcss-transformer": "^1.4.1",
-    "style-dictionary": "^3.9.2",
     "ts-node": "^10.9.2"
   }
 }
