@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@react-email/components": "^0.0.15",
-    "@rightbrain/tsconfig": "workspace:^",
+    "@rightbrainai/tsconfig": "workspace:^",
     "browserslist": "^4.23.0",
     "react": "^18.2.0",
     "react-email": "^2.1.0"
