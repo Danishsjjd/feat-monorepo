@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "dotenv -- turbo run dev",
     "build": "turbo run build",
-    "format:check": "turbo run format:check"
+    "format:check": "turbo run format:check",
+    "format:write": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "dependencies": {
     "dotenv-cli": "^7.4.1",
