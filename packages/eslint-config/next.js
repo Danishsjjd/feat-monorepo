@@ -4,14 +4,8 @@ const project = resolve(process.cwd(), "tsconfig.json")
 
 /** @type {import("eslint").Linter.Config} */
 module.exports = {
-  parser: "@typescript-eslint/parser",
-  plugins: ["@typescript-eslint", "@tanstack/query", "only-warn"],
-  extends: [
-    "next/core-web-vitals",
-    "plugin:@typescript-eslint/recommended",
-    "eslint:recommended",
-    "prettier",
-  ],
+  plugins: ["@typescript-eslint", "only-warn"],
+  extends: ["next/core-web-vitals", "plugin:@typescript-eslint/recommended", "eslint:recommended", "prettier"],
   globals: {
     React: true,
     JSX: true,
@@ -40,9 +34,5 @@ module.exports = {
         fixStyle: "inline-type-imports",
       },
     ],
-    "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
-    "@tanstack/query/exhaustive-deps": "warn",
-    "@tanstack/query/no-rest-destructuring": "warn",
-    "@tanstack/query/stable-query-client": "warn",
   },
 }
