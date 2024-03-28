@@ -6,6 +6,7 @@
     "^next",
     "^next-.*$",
     "^next/.*$",
+    "^@rightbrainai/.*$",
     "^.*/hooks/.*$",
     "^.*/services/.*$",
     "^.*/utils/.*$",

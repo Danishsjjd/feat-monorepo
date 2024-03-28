@@ -49,6 +49,9 @@ importers:
       '@rightbrainai/tsconfig':
         specifier: workspace:^
         version: link:../../packages/tsconfig
+      '@rightbrainai/ui':
+        specifier: workspace:^
+        version: link:../../packages/ui
       '@types/node':
         specifier: ^20
         version: 20.11.28
