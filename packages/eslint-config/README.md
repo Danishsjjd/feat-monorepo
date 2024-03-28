@@ -1,3 +1,3 @@
-# `@turbo/eslint-config`
+# `@rightbrainai/eslint-config`
 
 Collection of internal eslint configurations.
