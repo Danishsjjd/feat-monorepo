@@ -13,7 +13,8 @@
     "build": "tailwindcss -i ./src/styles.css -o ./dist/index.css",
     "lint": "eslint src/",
     "dev": "tailwindcss -i ./src/styles.css -o ./dist/index.css --watch",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "generate:component": "turbo gen react-component"
   },
   "peerDependencies": {
     "react": "^18.2.0"
@@ -22,6 +23,7 @@
     "@rightbrainai/eslint-config": "workspace:*",
     "@rightbrainai/tailwind-config": "workspace:*",
     "@rightbrainai/tsconfig": "workspace:*",
+    "@turbo/gen": "^1.13.0",
     "@types/react": "^18.2.61",
     "autoprefixer": "^10.4.18",
     "postcss": "^8.4.35",
