@@ -6,17 +6,15 @@
     "next.js"
   ],
   "devDependencies": {
+    "@tanstack/eslint-plugin-query": "^5.27.7",
+    "@types/eslint": "^8.56.6",
     "@typescript-eslint/eslint-plugin": "^7.3.1",
     "@typescript-eslint/parser": "^7.3.1",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.1.3",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-turbo": "^1.12.4",
     "eslint-plugin-only-warn": "^1.1.0",
     "typescript": "^5.3.3"
-  },
-  "dependencies": {
-    "@tanstack/eslint-plugin-query": "^5.27.7",
-    "@types/eslint": "^8.56.6",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.3"
   }
 }
