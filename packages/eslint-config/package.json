@@ -2,9 +2,10 @@
   "name": "@rightbrainai/eslint-config",
   "version": "0.0.0",
   "private": true,
-  "files": [
-    "next.js"
-  ],
+  "exports": {
+    "./next": "./next.js",
+    "./tanstack": "./tanstack.js"
+  },
   "devDependencies": {
     "@tanstack/eslint-plugin-query": "^5.27.7",
     "@types/eslint": "^8.56.6",

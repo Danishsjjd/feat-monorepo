@@ -21,7 +21,7 @@ module.exports = {
       },
     },
   },
-  ignorePatterns: ["node_modules/", "dist/", ".eslintrc.js", "**/*.css"],
+  ignorePatterns: ["node_modules/", "dist/", ".eslintrc.js", "**/*.css", ".*.js"],
   rules: {
     "@typescript-eslint/consistent-type-imports": [
       "warn",
@@ -32,6 +32,7 @@ module.exports = {
     ],
   },
   overrides: [
+    { files: ["*.js?(x)", "*.ts?(x)"] },
     {
       files: ["*.config.js"],
       env: {

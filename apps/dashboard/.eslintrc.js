@@ -2,5 +2,5 @@
 module.exports = {
   root: true,
   parser: "@typescript-eslint/parser",
-  extends: ["@rightbrainai/eslint-config/next.js"],
+  extends: ["@rightbrainai/eslint-config/next"],
 }

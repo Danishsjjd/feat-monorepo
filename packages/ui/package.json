@@ -7,7 +7,8 @@
   ],
   "exports": {
     "./global.css": "./styles/global.css",
-    "./card": "./components/Card.tsx"
+    "./card": "./components/Card.tsx",
+    "./button": "./components/ui/button.tsx"
   },
   "scripts": {
     "build:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css",
@@ -31,6 +32,7 @@
     "tailwindcss": "^3.4.1"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.363.0",
