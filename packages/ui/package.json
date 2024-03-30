@@ -6,7 +6,6 @@
     "**/*.css"
   ],
   "exports": {
-    ".": "./index.tsx",
     "./global.css": "./styles/global.css",
     "./card": "./components/Card.tsx"
   },
