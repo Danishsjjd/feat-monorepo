@@ -6,13 +6,14 @@
     "**/*.css"
   ],
   "exports": {
-    "./styles.css": "./dist/index.css",
-    "./card": "./src/card.tsx"
+    ".": "./index.tsx",
+    "./global.css": "./styles/global.css",
+    "./card": "./components/Card.tsx"
   },
   "scripts": {
-    "build": "tailwindcss -i ./src/styles.css -o ./dist/index.css",
+    "build:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css",
     "lint": "eslint src/",
-    "dev": "tailwindcss -i ./src/styles.css -o ./dist/index.css --watch",
+    "dev:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css --watch",
     "type-check": "tsc --noEmit",
     "generate:component": "turbo gen react-component"
   },
