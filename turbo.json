@@ -3,7 +3,7 @@
   "pipeline": {
     "build": {
       "dependsOn": ["^build"],
-      "outputs": [".next/**", "!.next/cache/**", "build/**"]
+      "outputs": ["storybook-static/**", ".next/**", "!.next/cache/**", "build/**"]
     },
     "dev": {
       "cache": false,
