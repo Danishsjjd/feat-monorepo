@@ -1,3 +1,5 @@
+import { shadcnPreset } from "./lib/shadcn-preset"
+
 import type { Config } from "tailwindcss"
 
 const config = {
@@ -10,6 +12,7 @@ const config = {
     },
   },
   plugins: [],
+  presets: [shadcnPreset],
 } satisfies Config
 
 export default config
