@@ -1,5 +1,6 @@
 import Image from "next/image"
 
+import { Button } from "@rightbrainai/ui/button"
 import { Card } from "@rightbrainai/ui/card"
 
 import logo from "./logo.svg"

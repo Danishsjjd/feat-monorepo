@@ -53,9 +53,6 @@ export const shadcnPlugin = plugin(
       "*": {
         "@apply border-border": {},
       },
-      body: {
-        "@apply bg-background text-foreground": {},
-      },
     })
   },
 
