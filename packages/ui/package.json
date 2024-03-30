@@ -11,8 +11,8 @@
   },
   "scripts": {
     "build:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css",
-    "lint": "eslint src/",
     "dev:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css --watch",
+    "lint": "eslint \"**/*.ts*\"",
     "type-check": "tsc --noEmit",
     "generate:component": "turbo gen react-component"
   },
