@@ -92,6 +92,9 @@ importers:
       '@chromatic-com/storybook':
         specifier: ^1.2.25
         version: 1.2.25(react@18.2.0)
+      '@storybook/addon-a11y':
+        specifier: ^8.0.5
+        version: 8.0.5
       '@storybook/addon-essentials':
         specifier: ^8.0.5
         version: 8.0.5(@types/react@18.2.70)(react-dom@18.2.0)(react@18.2.0)
@@ -3392,6 +3395,13 @@ packages:
   /@socket.io/component-emitter@3.1.0:
     resolution: {integrity: sha512-+9jVqKhRSpsc591z5vX+X5Yyw+he/HCB4iQ/RYxw35CEPaY1gnsNE43nf9n9AaYjAQrTiI/mOwKUKdUs9vf7Xg==}
     dev: false
+
+  /@storybook/addon-a11y@8.0.5:
+    resolution: {integrity: sha512-QWMbFyZ3Cs859OZ4hoidfZBVHpQ+BAsyu88g/o+AKh5hP3/SRu8g+D/ZVtt2vkwN4jvIQzNDpzjIYKp1zRDczQ==}
+    dependencies:
+      '@storybook/addon-highlight': 8.0.5
+      axe-core: 4.7.0
+    dev: true
 
   /@storybook/addon-actions@8.0.5:
     resolution: {integrity: sha512-l1UBvD61DRcfuBTkdqMp2K+60M1QpvhNpYxMmJ/JEYQjzWTg/s9gLmX8eSjgA5bi0sjjJ5i1ddr9d8nHrmwfPA==}
