@@ -7,7 +7,7 @@
   ],
   "exports": {
     "./global.css": "./styles/global.css",
-    "./card": "./components/Card.tsx",
+    "./card": "./components/card.tsx",
     "./button": "./components/ui/button.tsx"
   },
   "scripts": {
