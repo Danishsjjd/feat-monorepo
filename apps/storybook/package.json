@@ -9,6 +9,7 @@
     "dev:deprecated": "vite",
     "build:deprecated": "vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "type-check": "tsc --project ./tsconfig.json --noEmit",
     "preview": "vite preview"
   },
   "dependencies": {

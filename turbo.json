@@ -11,8 +11,7 @@
     },
     "lint": {},
     "type-check": {},
-    "format:check": {
-      "outputs": []
-    }
+    "format:check": {},
+    "format:write": {}
   }
 }

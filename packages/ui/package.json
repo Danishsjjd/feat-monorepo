@@ -13,7 +13,7 @@
     "build:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css",
     "dev:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css --watch",
     "lint": "eslint \"**/*.ts*\"",
-    "type-check": "tsc --noEmit",
+    "type-check": "tsc --project ./tsconfig.json --noEmit",
     "generate:component": "turbo gen react-component"
   },
   "peerDependencies": {
