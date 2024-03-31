@@ -1,0 +1,58 @@
+# Changelog
+
+## [0.0.3](https://github.com/Danishsjjd/feat-monorepo/compare/rightbrainai-v0.0.2...rightbrainai-v0.0.3) (2024-03-31)
+
+
+### Features
+
+* button story ([f45c3fd](https://github.com/Danishsjjd/feat-monorepo/commit/f45c3fdebb4e500fb4fb0efb54583ea001eea2ef))
+* dashboard app ([659f29d](https://github.com/Danishsjjd/feat-monorepo/commit/659f29da2329516ec7159fedf1ee07632dab8be1))
+* design foundation package ([56416be](https://github.com/Danishsjjd/feat-monorepo/commit/56416be3d73c99257715c2f51e431bbc501a9296))
+* eslint configuration package ([c8226e5](https://github.com/Danishsjjd/feat-monorepo/commit/c8226e592bd1b976f6d3f42b60e464b8b665ecb4))
+* **eslint:** tanstack config ([a07c2bb](https://github.com/Danishsjjd/feat-monorepo/commit/a07c2bbc9eaf178cc37e2744cca8496400c3bf54))
+* format command ([5956829](https://github.com/Danishsjjd/feat-monorepo/commit/595682912bc677b3eb80a93ff0a386ecea14a429))
+* monorepo structure ([de72798](https://github.com/Danishsjjd/feat-monorepo/commit/de72798b8a41e40c5eea3cbab4504eb2245ecf1b))
+* prettier ([525cd0d](https://github.com/Danishsjjd/feat-monorepo/commit/525cd0d7f7e98bf23e03ada6e1929a26f6987bd9))
+* push workflow ([e31116b](https://github.com/Danishsjjd/feat-monorepo/commit/e31116ba41ee5bf80bcc48ddb12cb98f20fe7083))
+* readme ([45e4049](https://github.com/Danishsjjd/feat-monorepo/commit/45e40498eddb0178fef42f01fcec6c25e8a89fa8))
+* release-please ([dd1a850](https://github.com/Danishsjjd/feat-monorepo/commit/dd1a850d3a1997045d45242fba9b13e19b8e7c25))
+* shadcn ([02019ab](https://github.com/Danishsjjd/feat-monorepo/commit/02019ab9b877bc788d38646bc12663edc8427532))
+* storybook a11y addon ([e6cfd26](https://github.com/Danishsjjd/feat-monorepo/commit/e6cfd26bef0f3b3dc4e07fadb236e809dcf4c82a))
+* storybook app ([32235ef](https://github.com/Danishsjjd/feat-monorepo/commit/32235ef15f224b9dbab225e14844f2bfaf3734b9))
+* tailwind config package ([b5d209a](https://github.com/Danishsjjd/feat-monorepo/commit/b5d209a29263f61fdcf4ca5974475f883c318dfa))
+* tailwind in dashboard ([ee7bfd2](https://github.com/Danishsjjd/feat-monorepo/commit/ee7bfd23bbe52cdcbd491eca2f677bb006ddd65c))
+* transactional package ([fb29fc1](https://github.com/Danishsjjd/feat-monorepo/commit/fb29fc1acf97621ecb14b128da83631a9db0db1e))
+* tsconfig ([ef1b12b](https://github.com/Danishsjjd/feat-monorepo/commit/ef1b12bceb9dd11128525f6b694ecc9cd1e1e928))
+* turbo build script ([91ca144](https://github.com/Danishsjjd/feat-monorepo/commit/91ca1442a0fd5c0e7ca9cf0c5fff29694c33736e))
+* turbo gen for ui components ([d68ab1b](https://github.com/Danishsjjd/feat-monorepo/commit/d68ab1b6c5e0a5d2948135616826a3fd64bb595a))
+* turbo repo ([f320e9b](https://github.com/Danishsjjd/feat-monorepo/commit/f320e9b1edc748cde26e4abae625729c6492af0e))
+* **ui:** button ([11fc984](https://github.com/Danishsjjd/feat-monorepo/commit/11fc984b70afa3d58b50c5e25a6bdf27b0f57538))
+
+
+### Bug Fixes
+
+* all package.json ([15526f0](https://github.com/Danishsjjd/feat-monorepo/commit/15526f00b68a95ac5ef5985d1abc1212aa503562))
+* build ([731072b](https://github.com/Danishsjjd/feat-monorepo/commit/731072b5fc00ac430e4e1bae2927661e39b46fac))
+* bump ui package to 0.0.2 ([#2](https://github.com/Danishsjjd/feat-monorepo/issues/2)) ([f072404](https://github.com/Danishsjjd/feat-monorepo/commit/f072404792df99d6e6ac878a0499a69928634070)), closes [#1](https://github.com/Danishsjjd/feat-monorepo/issues/1)
+* ci workflow ([edc5fb5](https://github.com/Danishsjjd/feat-monorepo/commit/edc5fb50d6b99811f21c425d501df2c868324acf))
+* dashboard dependices ([a0f594e](https://github.com/Danishsjjd/feat-monorepo/commit/a0f594ec2f7747348e1cb6b0764e8f2da715804f))
+* lint command ([d880347](https://github.com/Danishsjjd/feat-monorepo/commit/d880347d13eb3d7c05e16762b037ef97dca842eb))
+* lint warnings ([014518e](https://github.com/Danishsjjd/feat-monorepo/commit/014518e0e20d06efcc4de3a972a36f036ae13197))
+* naming conventions ([5894f99](https://github.com/Danishsjjd/feat-monorepo/commit/5894f99abdf83096bb1df242b52c7825bc55b1c6))
+* package name ([a0f41ef](https://github.com/Danishsjjd/feat-monorepo/commit/a0f41efd5038a8ecc029817ff3cf4d2983f0464b))
+* packages name ([84ece81](https://github.com/Danishsjjd/feat-monorepo/commit/84ece81634749d0f6b3c9ec539ccfc2605c8c9fc))
+* **packages:** versions ([1691990](https://github.com/Danishsjjd/feat-monorepo/commit/1691990d705f55ff3fc619f97c4f6292a00e1aad))
+* remove design foundation package ([9c998d1](https://github.com/Danishsjjd/feat-monorepo/commit/9c998d1416ed8b33dba0ad0077d93c55f9696f67))
+* root package version ([23f261f](https://github.com/Danishsjjd/feat-monorepo/commit/23f261f79a56915dcb1b5cea020f2dce4ff3ba25))
+* storybook package name ([1f182a6](https://github.com/Danishsjjd/feat-monorepo/commit/1f182a6e570c6d505b749907408970f9a82ad610))
+* **tailwind:** missing files ([99b12de](https://github.com/Danishsjjd/feat-monorepo/commit/99b12de27ed7bd4d3c7a47f1ee922af2c1163144))
+* tanstack eslint config ([20df6a3](https://github.com/Danishsjjd/feat-monorepo/commit/20df6a3608924431f10ab0381f96a9739687416e))
+* transactional react version ([235f47a](https://github.com/Danishsjjd/feat-monorepo/commit/235f47aa3e0c660bcc269b2b7a1a8b6404e0e075))
+* turbo build cache ([de0c7ec](https://github.com/Danishsjjd/feat-monorepo/commit/de0c7ecb6c886a6cc469e2285db1a7e1ddb510c8))
+* turbo generate template ([ea54256](https://github.com/Danishsjjd/feat-monorepo/commit/ea54256673ec187165105e93079ac4694d1c6b49))
+* **turbo:** build cache ([7a74e12](https://github.com/Danishsjjd/feat-monorepo/commit/7a74e12a2fcfcafc4a9729d26f4f397d19876c35))
+* type-check command & format all repo ([ecaad57](https://github.com/Danishsjjd/feat-monorepo/commit/ecaad575ca18b02aba9bad62c0e678868b2c9329))
+* ui export options ([71aab31](https://github.com/Danishsjjd/feat-monorepo/commit/71aab31a63992aa526f960097061a8f6f154fef9))
+* **ui:** remove index.js ([ecdf4f8](https://github.com/Danishsjjd/feat-monorepo/commit/ecdf4f8396750f86f42f5c6df01a18093e1d0c21))
+* workflow add build command ([6f86613](https://github.com/Danishsjjd/feat-monorepo/commit/6f86613f82eb77d0bfb08f28b9952e4d1f3d58ee))
+* workflow caching ([268da30](https://github.com/Danishsjjd/feat-monorepo/commit/268da3013ad525daa53803f65e47b199b5c9ecf9))
