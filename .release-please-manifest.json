@@ -1,5 +1,5 @@
 {
   "apps/dashboard": "0.1.0",
-  "packages/ui": "0.1.0",
+  "packages/ui": "0.2.0",
   "packages/transactional": "0.1.0"
 }

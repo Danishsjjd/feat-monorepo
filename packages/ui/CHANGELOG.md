@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Danishsjjd/feat-monorepo/compare/ui-v0.1.0...ui-v0.2.0) (2024-03-31)
+
+
+### Features
+
+* badge component ([#12](https://github.com/Danishsjjd/feat-monorepo/issues/12)) ([c35507f](https://github.com/Danishsjjd/feat-monorepo/commit/c35507f98aae1d3f7e2db55456d1fb95e814ef19))
+
 ## [0.1.0](https://github.com/Danishsjjd/feat-monorepo/compare/ui-v0.0.1...ui-v0.1.0) (2024-03-31)
 
 
