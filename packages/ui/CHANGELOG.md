@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/Danishsjjd/feat-monorepo/compare/ui-v0.2.0...ui-v0.3.0) (2024-03-31)
+
+
+### Features
+
+* **utils:** update encode to support unicode ([ccb21a3](https://github.com/Danishsjjd/feat-monorepo/commit/ccb21a35160a6462bab73b1ca4b2772bc1a45de4))
+
+
+### Bug Fixes
+
+* **badge:** brand color ([#16](https://github.com/Danishsjjd/feat-monorepo/issues/16)) ([ccb21a3](https://github.com/Danishsjjd/feat-monorepo/commit/ccb21a35160a6462bab73b1ca4b2772bc1a45de4))
+
 ## [0.2.0](https://github.com/Danishsjjd/feat-monorepo/compare/ui-v0.1.0...ui-v0.2.0) (2024-03-31)
 
 
