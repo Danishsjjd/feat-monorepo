@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/Danishsjjd/feat-monorepo/compare/rightbrainai-v0.0.3...rightbrainai-v0.0.4) (2024-03-31)
+
+
+### Bug Fixes
+
+* ui package ([#4](https://github.com/Danishsjjd/feat-monorepo/issues/4)) ([045d261](https://github.com/Danishsjjd/feat-monorepo/commit/045d2613178ce686b098cfc76bb5424213832bd8))
+
 ## [0.0.3](https://github.com/Danishsjjd/feat-monorepo/compare/rightbrainai-v0.0.2...rightbrainai-v0.0.3) (2024-03-31)
 
 
