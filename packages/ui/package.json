@@ -8,7 +8,8 @@
   "exports": {
     "./global.css": "./styles/global.css",
     "./card": "./components/card.tsx",
-    "./button": "./components/ui/button.tsx"
+    "./button": "./components/ui/button.tsx",
+    "./badge": "./components/ui/badge.tsx"
   },
   "scripts": {
     "build:deprecated": "tailwindcss -i ./src/styles.css -o ./dist/index.css",
