@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Danishsjjd/nextjs-monorepo/compare/rightbrainai-v1.1.0...rightbrainai-v1.1.1) (2024-04-03)
+
+
+### Bug Fixes
+
+* readme title ([25226d4](https://github.com/Danishsjjd/nextjs-monorepo/commit/25226d46b1d5d54858ea07052c8e4dc371e49cde))
+
 ## [1.1.0](https://github.com/Danishsjjd/nextjs-monorepo/compare/rightbrainai-v1.0.0...rightbrainai-v1.1.0) (2024-04-03)
 
 
