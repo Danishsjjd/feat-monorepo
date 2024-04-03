@@ -1,4 +1,4 @@
-# Project Name README
+# Nextjs Monorepo
 
 This project utilizes [Turbo Repo](https://turbo.build/repo/) for managing a monorepo structure, enabling seamless management of multiple packages and applications within a single repository.
 
