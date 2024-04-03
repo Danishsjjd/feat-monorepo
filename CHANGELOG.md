@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Danishsjjd/nextjs-monorepo/compare/rightbrainai-v1.0.0...rightbrainai-v1.1.0) (2024-04-03)
+
+
+### Features
+
+* readme ([#21](https://github.com/Danishsjjd/nextjs-monorepo/issues/21)) ([caeae16](https://github.com/Danishsjjd/nextjs-monorepo/commit/caeae1695c0b9bb606629bac10abfd5f7188b6c0))
+
 ## 1.0.0 (2024-03-31)
 
 
